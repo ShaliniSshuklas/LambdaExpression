@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\LambaExpression\bin\Debug\netcoreapp3.1\LambaExpression.exe
+C:\Users\Admin\source\repos\LambaExpression\bin\Debug\netcoreapp3.1\LambaExpression.deps.json
+C:\Users\Admin\source\repos\LambaExpression\bin\Debug\netcoreapp3.1\LambaExpression.runtimeconfig.json
+C:\Users\Admin\source\repos\LambaExpression\bin\Debug\netcoreapp3.1\LambaExpression.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\LambaExpression\bin\Debug\netcoreapp3.1\LambaExpression.dll
+C:\Users\Admin\source\repos\LambaExpression\bin\Debug\netcoreapp3.1\LambaExpression.pdb
+C:\Users\Admin\source\repos\LambaExpression\obj\Debug\netcoreapp3.1\LambaExpression.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LambaExpression\obj\Debug\netcoreapp3.1\LambaExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\LambaExpression\obj\Debug\netcoreapp3.1\LambaExpression.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\LambaExpression\obj\Debug\netcoreapp3.1\LambaExpression.AssemblyInfo.cs
+C:\Users\Admin\source\repos\LambaExpression\obj\Debug\netcoreapp3.1\LambaExpression.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LambaExpression\obj\Debug\netcoreapp3.1\LambaExpression.dll
+C:\Users\Admin\source\repos\LambaExpression\obj\Debug\netcoreapp3.1\LambaExpression.pdb
+C:\Users\Admin\source\repos\LambaExpression\obj\Debug\netcoreapp3.1\LambaExpression.genruntimeconfig.cache
